@@ -6,7 +6,8 @@ Este é o frontend de um catálogo de filmes desenvolvido em **React.js**, permi
 
 ## 📸 Preview
 
-<img width="1000" height="797" alt="image" src="https://github.com/user-attachments/assets/54141275-648b-4499-8f11-0f1afea9fbfe" />
+<img width="1025" height="793" alt="image" src="https://github.com/user-attachments/assets/0502abc8-d275-4504-8f36-f38d122fe102" />
+
 
 
 
